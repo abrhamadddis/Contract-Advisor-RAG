@@ -1,4 +1,4 @@
-# Week2 Data Engineering Data warehouse
+# Contract Advisor RAG
 ## project Overview
 
 The goal is to develop an advanced contract AI system for Lizzy AI, creating the first fully autonomous artificial contract lawyer. Using Hybrid LLM technology, the project focuses on building, evaluating, and enhancing a RAG (Retrieval Augmented Generation) system for Contract Q&A. This involves marrying powerful language models with external data sources to provide accurate and context-rich responses. The project includes researching RAG system improvements, building a Q&A pipeline, establishing a RAG evaluation pipeline,optimizing Contract Q&A, and implementing enhancements. Ultimately, it aims to revolutionize the legal industry with an autonomous contract assistant capable of independent contract drafting, review, and negotiation.
